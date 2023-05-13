@@ -1,0 +1,15 @@
+/Users/kevjnmorandi/Projects/Decisions/Decisions/bin/Debug/net7.0/Decisions
+/Users/kevjnmorandi/Projects/Decisions/Decisions/bin/Debug/net7.0/Decisions.deps.json
+/Users/kevjnmorandi/Projects/Decisions/Decisions/bin/Debug/net7.0/Decisions.runtimeconfig.json
+/Users/kevjnmorandi/Projects/Decisions/Decisions/bin/Debug/net7.0/Decisions.dll
+/Users/kevjnmorandi/Projects/Decisions/Decisions/bin/Debug/net7.0/Decisions.pdb
+/Users/kevjnmorandi/Projects/Decisions/Decisions/obj/Debug/net7.0/Decisions.csproj.AssemblyReference.cache
+/Users/kevjnmorandi/Projects/Decisions/Decisions/obj/Debug/net7.0/Decisions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevjnmorandi/Projects/Decisions/Decisions/obj/Debug/net7.0/Decisions.AssemblyInfoInputs.cache
+/Users/kevjnmorandi/Projects/Decisions/Decisions/obj/Debug/net7.0/Decisions.AssemblyInfo.cs
+/Users/kevjnmorandi/Projects/Decisions/Decisions/obj/Debug/net7.0/Decisions.csproj.CoreCompileInputs.cache
+/Users/kevjnmorandi/Projects/Decisions/Decisions/obj/Debug/net7.0/Decisions.dll
+/Users/kevjnmorandi/Projects/Decisions/Decisions/obj/Debug/net7.0/refint/Decisions.dll
+/Users/kevjnmorandi/Projects/Decisions/Decisions/obj/Debug/net7.0/Decisions.pdb
+/Users/kevjnmorandi/Projects/Decisions/Decisions/obj/Debug/net7.0/Decisions.genruntimeconfig.cache
+/Users/kevjnmorandi/Projects/Decisions/Decisions/obj/Debug/net7.0/ref/Decisions.dll

@@ -1,0 +1,15 @@
+/Users/kevjnmorandi/Projects/ForIteration/ForIteration/bin/Debug/net7.0/ForIteration
+/Users/kevjnmorandi/Projects/ForIteration/ForIteration/bin/Debug/net7.0/ForIteration.deps.json
+/Users/kevjnmorandi/Projects/ForIteration/ForIteration/bin/Debug/net7.0/ForIteration.runtimeconfig.json
+/Users/kevjnmorandi/Projects/ForIteration/ForIteration/bin/Debug/net7.0/ForIteration.dll
+/Users/kevjnmorandi/Projects/ForIteration/ForIteration/bin/Debug/net7.0/ForIteration.pdb
+/Users/kevjnmorandi/Projects/ForIteration/ForIteration/obj/Debug/net7.0/ForIteration.csproj.AssemblyReference.cache
+/Users/kevjnmorandi/Projects/ForIteration/ForIteration/obj/Debug/net7.0/ForIteration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevjnmorandi/Projects/ForIteration/ForIteration/obj/Debug/net7.0/ForIteration.AssemblyInfoInputs.cache
+/Users/kevjnmorandi/Projects/ForIteration/ForIteration/obj/Debug/net7.0/ForIteration.AssemblyInfo.cs
+/Users/kevjnmorandi/Projects/ForIteration/ForIteration/obj/Debug/net7.0/ForIteration.csproj.CoreCompileInputs.cache
+/Users/kevjnmorandi/Projects/ForIteration/ForIteration/obj/Debug/net7.0/ForIteration.dll
+/Users/kevjnmorandi/Projects/ForIteration/ForIteration/obj/Debug/net7.0/refint/ForIteration.dll
+/Users/kevjnmorandi/Projects/ForIteration/ForIteration/obj/Debug/net7.0/ForIteration.pdb
+/Users/kevjnmorandi/Projects/ForIteration/ForIteration/obj/Debug/net7.0/ForIteration.genruntimeconfig.cache
+/Users/kevjnmorandi/Projects/ForIteration/ForIteration/obj/Debug/net7.0/ref/ForIteration.dll

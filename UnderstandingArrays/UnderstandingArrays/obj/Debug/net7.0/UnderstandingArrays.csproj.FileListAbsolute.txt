@@ -1,0 +1,15 @@
+/Users/kevjnmorandi/Projects/UnderstandingArrays/UnderstandingArrays/bin/Debug/net7.0/UnderstandingArrays
+/Users/kevjnmorandi/Projects/UnderstandingArrays/UnderstandingArrays/bin/Debug/net7.0/UnderstandingArrays.deps.json
+/Users/kevjnmorandi/Projects/UnderstandingArrays/UnderstandingArrays/bin/Debug/net7.0/UnderstandingArrays.runtimeconfig.json
+/Users/kevjnmorandi/Projects/UnderstandingArrays/UnderstandingArrays/bin/Debug/net7.0/UnderstandingArrays.dll
+/Users/kevjnmorandi/Projects/UnderstandingArrays/UnderstandingArrays/bin/Debug/net7.0/UnderstandingArrays.pdb
+/Users/kevjnmorandi/Projects/UnderstandingArrays/UnderstandingArrays/obj/Debug/net7.0/UnderstandingArrays.csproj.AssemblyReference.cache
+/Users/kevjnmorandi/Projects/UnderstandingArrays/UnderstandingArrays/obj/Debug/net7.0/UnderstandingArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevjnmorandi/Projects/UnderstandingArrays/UnderstandingArrays/obj/Debug/net7.0/UnderstandingArrays.AssemblyInfoInputs.cache
+/Users/kevjnmorandi/Projects/UnderstandingArrays/UnderstandingArrays/obj/Debug/net7.0/UnderstandingArrays.AssemblyInfo.cs
+/Users/kevjnmorandi/Projects/UnderstandingArrays/UnderstandingArrays/obj/Debug/net7.0/UnderstandingArrays.csproj.CoreCompileInputs.cache
+/Users/kevjnmorandi/Projects/UnderstandingArrays/UnderstandingArrays/obj/Debug/net7.0/UnderstandingArrays.dll
+/Users/kevjnmorandi/Projects/UnderstandingArrays/UnderstandingArrays/obj/Debug/net7.0/refint/UnderstandingArrays.dll
+/Users/kevjnmorandi/Projects/UnderstandingArrays/UnderstandingArrays/obj/Debug/net7.0/UnderstandingArrays.pdb
+/Users/kevjnmorandi/Projects/UnderstandingArrays/UnderstandingArrays/obj/Debug/net7.0/UnderstandingArrays.genruntimeconfig.cache
+/Users/kevjnmorandi/Projects/UnderstandingArrays/UnderstandingArrays/obj/Debug/net7.0/ref/UnderstandingArrays.dll
