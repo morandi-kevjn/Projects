@@ -16,6 +16,7 @@ echo "🔄 Updating Homebrew..."
 brew update
 
 # Core Tools
+echo "🔧 Installing core developer tools..."
 brew install git
 brew install make
 brew install cmake
@@ -25,6 +26,17 @@ brew install postgresql
 brew install mongodb-community
 brew install node
 brew install go
+brew install dotnet-sdk
+brew install openjdk@11
+brew install openjdk@17
+breww install openjdk@21
+brew install python
+
+# Python packages
+echo "🐍 Installing Python packages..."
+pip install --upgrade pip
+pip install django
+pip install flask
 
 # Rust (via rustup)
 if ! command -v rustc &> /dev/null; then
@@ -36,19 +48,38 @@ else
 fi
 
 # VS Code
+echo "💻 Installing Visual Studio Code..."
 brew install --cask visual-studio-code
 
 # MongoDB Compass (Optional GUI)
-brew install --cask mongodb-compass
+if ! command -v mongosh &> /dev/null; then
+    echo "🗺️ Installing MongoDB Compass..."
+    brew install --cask mongodb-compass 
+else
+    echo "✅ MongoDB Compass already installed."
+fi
 
 # React Setup (via npm)
 echo "⚛️ Installing React CLI tools..."
 npm install -g create-react-app
 
+# Optional: Vue CLI (if you prefer Vue.js)
+echo "🌐 Installing Vue CLI..."
+npm install -g @vue/cli
+
 # Optional: Vite (modern frontend build tool)
+echo "⚡ Installing Vite..."
 npm install -g vite
 
+# Maven (Java build tool)
+echo "☕ Installing Maven..."
+brew install maven
+# Gradle (Java build tool)
+echo "☕ Installing Gradle..."
+brew install gradle
+
 # Clean up
+echo "🧹 Cleaning up Homebrew..."
 brew cleanup
 
 echo "✅ Developer environment setup complete!"
